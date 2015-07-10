@@ -145,7 +145,7 @@
             <Component class="javax.swing.JButton" name="guessButton">
               <Properties>
                 <Property name="mnemonic" type="int" value="71"/>
-                <Property name="text" type="java.lang.String" value="Guess Esther"/>
+                <Property name="text" type="java.lang.String" value="Salir!!!!!"/>
                 <Property name="toolTipText" type="java.lang.String" value="Guess the scrambled word."/>
               </Properties>
               <Events>
@@ -160,7 +160,7 @@
             <Component class="javax.swing.JButton" name="nextTrial">
               <Properties>
                 <Property name="mnemonic" type="int" value="78"/>
-                <Property name="text" type="java.lang.String" value="Old Word"/>
+                <Property name="text" type="java.lang.String" value="Entrar!!!!"/>
                 <Property name="toolTipText" type="java.lang.String" value="Fetch a new word."/>
               </Properties>
               <Events>
